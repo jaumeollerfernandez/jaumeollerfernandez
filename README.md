@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on [Space-work]([https://github.com/jaumeollerfernandez/Space-Work.git])
 
-- 🌱 I’m currently learning **Javascript, Java**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **jaumeollerfernandez@gmail.com**
 
