@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jaume</h1>
 <h3 align="center">Web developer.</h3>
 
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on Space-Work<br>🌱 I’m currently learning Javascript
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaume-oller-fernandez/) 
