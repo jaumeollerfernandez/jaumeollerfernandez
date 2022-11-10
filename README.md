@@ -4,7 +4,8 @@
 <div align="center">
 # 💫 About Me:
 🔭 I’m currently working on Space-Work<br>🌱 I’m currently learning Javascript
-</div>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaume-oller-fernandez/) 
@@ -22,4 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jaumeollerfernandez&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  </div>
