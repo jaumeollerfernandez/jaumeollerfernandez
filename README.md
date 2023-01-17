@@ -3,7 +3,7 @@
 
 <div align="center">
 💫 About Me:
-  ![Alt Text](https://i.pinimg.com/originals/a6/97/67/a69767b37c34c13cb8f9245beb36e21c.gif)
+  ![](https://i.pinimg.com/originals/a6/97/67/a69767b37c34c13cb8f9245beb36e21c.gif)
 Learning a lot, trying to improve all the time!
 
 
