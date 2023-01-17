@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaume</h1>
+<h1 align="center">Hello there!</h1>
 <h3 align="center">Web developer.</h3>
 <div align="center">
   <img src="https://i.pinimg.com/originals/a6/97/67/a69767b37c34c13cb8f9245beb36e21c.gif"/>
