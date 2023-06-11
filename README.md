@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h3 align="center">Junior Web developer.</h3>
+<h3 align="center">Web developer.</h3>
 <div align="center">
   <img src="https://i.pinimg.com/originals/a6/97/67/a69767b37c34c13cb8f9245beb36e21c.gif"/>
 </div>
