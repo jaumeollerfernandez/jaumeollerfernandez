@@ -1,15 +1,8 @@
-<h1 align="center">Hello there!</h1>
-<h3 align="center">Web developer.</h3>
+<h1 align="center">Software developer</h1>
 <div align="center">
   <img src="https://i.pinimg.com/originals/a6/97/67/a69767b37c34c13cb8f9245beb36e21c.gif"/>
 </div>
 <div align="center">
-💫 About Me:
-
-  
-Learning a lot, trying to improve all the time!
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaume-oller-fernandez/) 
@@ -31,13 +24,3 @@ Learning a lot, trying to improve all the time!
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaumeollerfernandez&theme=dark&hide_border=false)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaumeollerfernandez&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=jaumeollerfernandez&icon=5&color=1)](https://visitcount.itsvg.in)
-
-  
-  </div>
